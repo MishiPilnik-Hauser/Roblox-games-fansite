@@ -1,0 +1,51 @@
+h1 {
+    font-size: 50px;
+    font-family: sans-serif; 
+    color: #ff0000;
+  }
+  
+  p { 
+    font-family: Trebuchet MS !important;
+  }  
+  
+  img {
+    width: 600px;
+  } 
+  
+  body {
+    background-color: #f5f2f2;
+    width:50%;
+    margin: auto;
+  }
+  h2 {
+    font-family: sans-serif;
+  }
+  
+  
+  .Gamedescription  {
+    margin:20px;
+    padding:20px;
+    background-color: black;
+   color: white; 
+  }
+  
+  
+  
+  li {
+    font-family:Trebuchet MS !important;
+  
+  }
+  #List {
+    border: 10px solid black;
+  padding-left:20px; 
+  margin-top:30px;
+  }
+  div h2 {
+    text-align:center;
+  }
+  .hidden {
+    visibility:hidden;
+  }
+  .show {
+    visibility:visible;
+  }
